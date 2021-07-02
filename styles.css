@@ -1,0 +1,53 @@
+body {
+	background-color: #191970;
+}
+
+h1 {
+	font-family: 'Brush Script MT', cursive;
+	position: relative;
+	left: 80px;
+	color: white;
+}
+
+p {
+	font-family: 'Brush Script MT', cursive;
+	position: relative;
+	left: 120px;
+	color: white;
+}
+
+#winLose {
+	visibility: hidden;
+	color:white;
+	font-size: 20px;
+}
+
+.bttn {
+	width: 20%;
+	border: 2px solid white;
+	position: relative;
+	left: 120px;
+	border-radius: 5px;
+}
+
+#bttn1 {
+	float: left;
+	margin: 7px;
+}
+
+#bttn2 {
+	position: relative;
+	left: 10px;
+	margin: 7px;
+}
+
+#bttn3 {
+	float: right;
+	margin: 7px;
+}
+
+#refresh {
+	visibility: hidden;
+	position: relative;
+	left: 120px;
+}
